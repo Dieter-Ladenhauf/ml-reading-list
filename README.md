@@ -23,6 +23,11 @@ My personal reading list for machine learning resources which I stumpled upon. W
 
 ## Deep learning
 
+### Recurrent Neural Networks
+
+- [x] [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) *(by Christopher Olah)*
+- [x] [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) *(by Andrej Karpathy)*
+
 ### Courses
 
 - [ ] [UC Berkeley](http://www.berkeley.edu/) [CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/) *(by Sergey Levine, John Schulman, Chelsea Finn)*
